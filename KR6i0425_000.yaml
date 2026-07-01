@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0425/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說十八泥犁經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0731.xml
+    old_id: T17n0731
+hash: sha256:2788502ce188cd29d4346c60f8498042b9272b60d94cc75324132bf53377d579

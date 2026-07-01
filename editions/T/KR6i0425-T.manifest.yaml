@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0425/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0425/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說十八泥犁經
+  identifiers:
+    krp: KR6i0425
+    cbeta: T17n0731
+    cbeta_old_id: T17n0731
+    authorityid: CA0003030
+    json_key: T0731
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0731.xml
+    old_id: T17n0731
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0425_000-T.yaml, hash: 'sha256:2788502ce188cd29d4346c60f8498042b9272b60d94cc75324132bf53377d579'}
+  - {seq: 1, filename: KR6i0425_001-T.yaml, hash: 'sha256:fc04e4433aaf78f32ac887568070574e62ec1497b87a2687c1f7b0f9ce4ece14'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0425_000-T.markers.yaml, hash: 'sha256:c260f23a939a48a7fb3feb19a3577d14030c79957aa39050e8e10d01591b84b4'}
+  - {seq: 1, role: markers, filename: assets/KR6i0425_001-T.markers.yaml, hash: 'sha256:e9f59ef23e9877818103f13180c40315935d7b5f34f2b9dc65a8523f5f3b12de'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0425_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2272
+  label: 佛說十八泥犁經
+  type: juan
+  level: 1
+hash: sha256:a9cee299e9865b9e1ee2ef279e4eecbf3beb5a0a4313e8632a6ec93604f38bc6
