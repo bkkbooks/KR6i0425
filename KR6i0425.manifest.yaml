@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0425_000.yaml, hash: 'sha256:2788502ce188cd29d4346c60f8498042b9272b60d94cc75324132bf53377d579'}
-  - {seq: 1, filename: KR6i0425_001.yaml, hash: 'sha256:93f7d884d29e1732945b0e944515d721ef0ebca073dcba295639205615909cb0'}
+  - {seq: 1, filename: KR6i0425_001.yaml, hash: 'sha256:fc04e4433aaf78f32ac887568070574e62ec1497b87a2687c1f7b0f9ce4ece14'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0425_001.markers.yaml, hash: 'sha256:d9f970d2c15696911b3fbef1dd9bf41c0b751f896386903a9bfafccfc4722921'}
+  - {seq: 0, role: markers, filename: assets/KR6i0425_000.markers.yaml, hash: 'sha256:f76e4f80543c44dd98166ebbb47864d4b7929665152a7453c029664f4aecbd5c'}
+  - {seq: 1, role: markers, filename: assets/KR6i0425_001.markers.yaml, hash: 'sha256:5b3807618d980b8610fb92f8a35804f508c53267eb1f324a8336ece768f5d97b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說十八泥犁經
   type: juan
   level: 1
-hash: sha256:be7ad5e2b92ef270ef8b30ecbe31343aeea2db62be5ee675b408f6a3b942560c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cf74f1c9c5055b67ee0dd904b2a8d5112ed0c76a4753fae1997ab4bc2e5878d5
